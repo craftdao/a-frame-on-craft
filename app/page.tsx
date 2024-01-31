@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <h1>CR AFT </h1>
+      <h1>CR CR CR CR CR AFT </h1>
     </>
   );
 }
