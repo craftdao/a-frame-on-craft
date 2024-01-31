@@ -7,7 +7,7 @@ const frameMetadata = getFrameMetadata({
       label: 'We CR AFT love C R AFT  BOAT',
     },
   ],
-  image: 'https://zizzamia.xyz/park-1.png',
+  image: 'https://static.wixstatic.com/media/98b7da_a16c6d1118d147968a001fc2cd1885ad~mv2.jpg',
   post_url: 'https://zizzamia.xyz/api/frame',
 });
 
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'CR AFT ',
     description: 'LFG',
-    images: ['https://zizzamia.xyz/park-1.png'],
+    images: ['https://static.wixstatic.com/media/98b7da_a16c6d1118d147968a001fc2cd1885ad~mv2.jpg'],
   },
   other: {
     ...frameMetadata,
