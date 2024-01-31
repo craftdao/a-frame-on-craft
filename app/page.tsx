@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: 'We love BOAT',
+      label: 'We CR AFT love C R AFT  BOAT',
     },
   ],
   image: 'https://zizzamia.xyz/park-1.png',
@@ -12,10 +12,10 @@ const frameMetadata = getFrameMetadata({
 });
 
 export const metadata: Metadata = {
-  title: 'zizzamia.xyz',
+  title: 'CR AFT ',
   description: 'LFG',
   openGraph: {
-    title: 'zizzamia.xyz',
+    title: 'CR AFT ',
     description: 'LFG',
     images: ['https://zizzamia.xyz/park-1.png'],
   },
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <h1>zizzamia.xyz</h1>
+      <h1>CR AFT </h1>
     </>
   );
 }
