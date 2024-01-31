@@ -12,10 +12,10 @@ const frameMetadata = getFrameMetadata({
 });
 
 export const metadata: Metadata = {
-  title: 'CR AFT ',
-  description: 'LFG',
+  title: 'CR cccccccccccccAFT ',
+  description: 'LccccccFG',
   openGraph: {
-    title: 'CR AFT ',
+    title: 'CR sadsdsadsadsadsaAFT ',
     description: 'LFG',
     images: ['https://static.wixstatic.com/media/98b7da_a16c6d1118d147968a001fc2cd1885ad~mv2.jpg'],
   },
